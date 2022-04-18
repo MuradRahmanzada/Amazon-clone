@@ -14,7 +14,7 @@ Here's the feature's included in this project
 
 How to register? 
 
-- Fill in the email and password fields and click the "Create Your Amazon Account" button. Enter the email and password you entered when registering and click the "Login" button.
+- Fill in the email and password fields and click the "Create Your Amazon Account" button. Enter the email and password you entered when registering and click the "Sign In" button.
 
 
 
