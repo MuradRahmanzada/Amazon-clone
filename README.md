@@ -1,6 +1,5 @@
 # Amazon Clone Application using React JS
 ![amazon-01](https://user-images.githubusercontent.com/97960285/163873836-d233097e-91fc-4fb4-a638-32c3fda05fe2.png)
-![amazon-02](https://user-images.githubusercontent.com/97960285/163873851-32efe5c2-5577-4e56-aaec-05833f40af82.png)
 ![amazon-03](https://user-images.githubusercontent.com/97960285/163873943-8067e909-6def-4ed4-9656-d814ae5b968b.png)
 ![amazon04](https://user-images.githubusercontent.com/97960285/163873962-1cb4c7b4-3ef5-4156-a8c2-ab278d246175.png)
 
