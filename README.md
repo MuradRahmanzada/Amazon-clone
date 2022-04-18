@@ -4,7 +4,14 @@
 ![amazon-03](https://user-images.githubusercontent.com/97960285/163873943-8067e909-6def-4ed4-9656-d814ae5b968b.png)
 ![amazon04](https://user-images.githubusercontent.com/97960285/163873962-1cb4c7b4-3ef5-4156-a8c2-ab278d246175.png)
 
+### Features
 
+Here's the feature's included in this project
+
+- 👨‍👩‍👧‍👦 Login Page
+- 📦 Products Page
+- 🛒 Cart and Checkout Page
+- 📝 Sign up function with Google Authencation
 
 
 
