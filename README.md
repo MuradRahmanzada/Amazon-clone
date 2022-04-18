@@ -1,8 +1,3 @@
-# Amazon Clone Application using React JS
-![amazon-01](https://user-images.githubusercontent.com/97960285/163873836-d233097e-91fc-4fb4-a638-32c3fda05fe2.png)
-![amazon-03](https://user-images.githubusercontent.com/97960285/163873943-8067e909-6def-4ed4-9656-d814ae5b968b.png)
-![amazon04](https://user-images.githubusercontent.com/97960285/163873962-1cb4c7b4-3ef5-4156-a8c2-ab278d246175.png)
-
 ### Features
 
 Here's the feature's included in this project
@@ -15,6 +10,12 @@ Here's the feature's included in this project
 How to register? 
 
 - Fill in the email and password fields and click the "Create Your Amazon Account" button. Enter the email and password you entered when registering and click the "Sign In" button.
+
+# Amazon Clone Application using React JS
+![amazon-01](https://user-images.githubusercontent.com/97960285/163873836-d233097e-91fc-4fb4-a638-32c3fda05fe2.png)
+![amazon-03](https://user-images.githubusercontent.com/97960285/163873943-8067e909-6def-4ed4-9656-d814ae5b968b.png)
+![amazon04](https://user-images.githubusercontent.com/97960285/163873962-1cb4c7b4-3ef5-4156-a8c2-ab278d246175.png)
+
 
 
 
