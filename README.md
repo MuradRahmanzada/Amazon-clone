@@ -12,7 +12,9 @@ Here's the feature's included in this project
 - 🛒 Cart and Checkout Page
 - 📝 Sign up function with Google Authentication
 
+How to register? 
 
+- Fill in the email and password fields and click the "Create Your Amazon Account" button. Enter the email and password you entered when registering and click the "Login" button.
 
 
 
