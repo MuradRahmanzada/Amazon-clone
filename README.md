@@ -10,7 +10,7 @@ Here's the feature's included in this project
 - 👨‍👩‍👧‍👦 Login Page
 - 📦 Products Page
 - 🛒 Cart and Checkout Page
-- 📝 Sign up function with Google Authencation
+- 📝 Sign up function with Google Authentication
 
 
 
