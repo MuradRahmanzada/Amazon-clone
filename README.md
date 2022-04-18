@@ -1,3 +1,15 @@
+# Amazon Clone Application using React JS
+![amazon-01](https://user-images.githubusercontent.com/97960285/163873836-d233097e-91fc-4fb4-a638-32c3fda05fe2.png)
+![amazon-02](https://user-images.githubusercontent.com/97960285/163873851-32efe5c2-5577-4e56-aaec-05833f40af82.png)
+![amazon-01](https://user-images.githubusercontent.com/97960285/163873861-5c98f682-fbdd-491c-9d11-a42279056f59.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
